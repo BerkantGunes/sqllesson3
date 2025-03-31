@@ -1,0 +1,1 @@
+quantity example in SQL
